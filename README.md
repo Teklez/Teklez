@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zemenu Mekuria</h1>
 <h3 align="center">Fullstack developer</h3>
-<img alt="coding" width="400" src "https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"/>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif"/>
 
 - 🌱 I’m currently learning **Golang**
 
