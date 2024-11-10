@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **NestJS**
-
 - 📫 How to reach me **zemenumekiria@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
