@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Zemenu Mekuria</h1>
-<h3 align="center">Full-Stack Developer | React | Next.js | Node.js</h3>
+<h1 align="left">Hey 👋, I'm Zemenu Mekuria</h1>
+<h3 align="left">Full-Stack Developer</h3>
 
 ---
 
