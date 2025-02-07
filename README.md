@@ -4,7 +4,7 @@
 ---
 
 ### 📬 Contact Me
-<p align="center">
+<p align="left">
   <a href="mailto:zemenumekiria@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,postgres,mysql,mongodb,prisma,git,linux,tailwind,docker,redux,graphql,flask,python" />
 </p>
 
