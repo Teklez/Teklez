@@ -20,8 +20,9 @@
 
 ### 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,postgres,mysql,mongodb,prisma,git,linux,tailwind,docker,redux,graphql,flask,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,postgres,mysql,mongodb,prisma,git,linux,tailwind,docker,redux,graphql,flask,python,supabase,firebase" />
 </p>
+
 
 ---
 
