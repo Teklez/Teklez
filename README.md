@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=teklez&show_icons=true&theme=radical&hide=issues" height="150" />
-  <img src="https://streak-stats.demolab.com?user=teklez&theme=radical" height="150" />
+ <img src="https://streak-stats.demolab.com?user=teklez&theme=radical&v=1" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teklez&layout=compact&theme=radical" height="150" />
 </p>
 
